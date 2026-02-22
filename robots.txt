@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mysticcodes162.github.io/hildred-mystic-website/sitemap.xml

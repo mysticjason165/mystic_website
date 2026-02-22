@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Mystic Website</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="preloader" class="preloader">
+  <div class="loader-circle"></div>
+</div>
+
+<div class="page-transition" id="pageTransition"></div>
+<header class="navbar">
+  <div class="nav-container">
+    <div class="nav-logo">Mystic</div>
+
+    <nav class="nav-links" id="navMenu">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="#section1">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="nav-toggle" id="navToggle">☰</div>
+
+    <button id="themeToggle" class="theme-toggle">🌙</button>
+
+   
+  </div>
+</header>
+
+<header class="hero reveal">
+  <div class="content">
+    <h1 class="title typewriter-container">
+      <span id="typewriterText"></span>
+      <span class="typewriter-cursor">|</span>
+    </h1>
+
+    <p class="subtitle reveal">A clean futuristic website design</p>
+    <a href="#section1" class="btn reveal">Explore</a>
+  </div>
+</header>
+
+
+<section id="section1" class="section reveal">
+<h2>About This Site</h2>
+<p>The orange-themed version of your Mystic website. Fully responsive and ready for GitHub Pages.</p>
+</section>
+
+<section class="features reveal">
+  <h2 class="features-title">Our Features</h2>
+
+  <div class="features-container reveal-stagger">
+    <div class="feature-card">
+      <h3>Fast Performance</h3>
+      <p>Your website loads smoothly and instantly on all devices.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>Modern Design</h3>
+      <p>A clean, futuristic orange theme that stands out professionally.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>Fully Responsive</h3>
+      <p>Optimized for mobile, tablet, and desktop with fluid layout.</p>
+    </div>
+  </div>
+</section>
+
+
+<section id="contact" class="contact-section reveal">
+  <h2>Contact Us</h2>
+  <p>Have questions or need help? Send us a message.</p>
+
+  <form class="contact-form">
+    <input type="text" placeholder="Your Name" required />
+    <input type="email" placeholder="Your Email" required />
+    <textarea placeholder="Your Message" rows="5" required></textarea>
+    <button type="submit" class="btn contact-btn">Send Message</button>
+  </form>
+</section>
+
+<footer class="footer">
+  <div class="footer-icons">
+
+    <a href="#" class="footer-icon">📸</a>   <!-- Instagram -->
+    <a href="#" class="footer-icon">🐦</a>   <!-- X/Twitter -->
+    <a href="#" class="footer-icon">▶️</a>   <!-- YouTube -->
+    <a href="#" class="footer-icon">🎵</a>   <!-- TikTok -->
+    <a href="mailto:youremail@example.com" class="footer-icon">✉️</a> <!-- Email -->
+
+  </div>
+
+  <p>© 2025 Mystic Design</p>
+</footer>
+<button id="scrollTopBtn" class="scroll-top">↑</button>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1000 @@
+"Ultra-Neon Arcade Overload <UPLOAD_IMAGE> as the base room. Transform it into a hyper-vivid cartoonish futuristic arcade filled with glowing signs, holographic menus, neon floor grids, arcade cabinets, and floating LED panels. No people. Intense neon blues, pinks, greens, and reds reflecting across smooth sci-fi surfaces. Energetic cyber atmosphere, playful cartoon shading, soft glows everywhere. High detail, crisp lines, bright saturated colors --v 7 --style raw
+"
+Futuristic Cyber-Lounge Use <UPLOAD_IMAGE> as the environment. Convert it into a cartoonish futuristic neon lounge with cozy booth seating, glowing tables, holographic interface panels, and ambient neon signage. No people. Keep the room layout but enhance it with soft cyberpunk lighting, vivid color pops, subtle reflections, and clean futuristic décor. Smooth cartoon shading, gentle gradients, cinematic glow effects --v 7 --style raw
+Sci-Fi Recreation Hub (Arcade + Gym Hybrid) <UPLOAD_IMAGE> as the base. Turn the location into a cartoonish sci-fi recreation hub featuring neon arcade pods, holographic workout machines, glowing room labels, and LED-lined walls. No people. Blend fitness tech with arcade aesthetics. Vibrant neon lighting, crisp surfaces, vivid futurism, clean comic-style shading, polished floors with neon reflections --v 7 --style raw
+Minimalist Futuristic Neon Space Use <UPLOAD_IMAGE>. Reimagine it as a sleek, minimalist cartoon futuristic room with simple geometric furniture, soft neon accents, glowing panel lines, and holographic indicators. No people. Smooth matte surfaces, balanced color palette, subtle neon highlights. Clean, modern, refined cartoon futurism with gentle glow and sharp clarity --v 7 --style raw
+Cozy Neon-Arcade Hideout<UPLOAD_IMAGE> transformed into a cozy cartoonish neon hideout with arcade elements, glowing booths, neon wall art, soft LED underlighting, and hologram screens. No people. Warm but futuristic atmosphere, saturated neon color blends, plush lounge corners, and playful sci-fi details. Vibrant cartoon futurism with soft edges and immersive lighting --v 7 --style raw
+Cozy Neon Cyber Café Use this room as the base: <UPLOAD_IMAGE>. Transform it into a cozy cartoonish futuristic cyber café with neon-lit tables, glowing mugs, holographic drink menus, warm LED accents, and floating display boards. No people. Soft cartoon shading, saturated colors, gentle neon glows, and a relaxed sci-fi coffeehouse vibe. Ultra-clean lines, polished reflections --v 7 --style raw
+High-Tech Futuristic Coffee Lab Use <UPLOAD_IMAGE> as the environment. Convert it into a bright cartoon futuristic coffee lab with holographic brewing machines, transparent digital screens, neon tube lighting, and sci-fi countertop textures. No people. Bold vivid colors, glowing accents, sleek minimalistic tech surfaces, and clean cartoon outlines --v 7 --style raw
+Cyberpunk Cartoon Café (Blue & Purple Glow)<UPLOAD_IMAGE> as the base. Reimagine it as a cartoonish cyberpunk café with deep blue and purple neon lighting, hologram menus hovering above tables, LED coffee dispensers, neon piping along the walls, and glowing floor strips. No people. Vibrant, saturated, futuristic, smooth cartoon shading with cinematic neon contrasts --v 7 --style raw
+Retro-Futuristic Synthwave Café Use <UPLOAD_IMAGE>. Turn it into a cartoonish retro-futuristic synthwave cyber café with 80s neon gradients, glowing geometric décor, hologram drink logos, neon grid floors, and bright pastel/fuchsia sci-fi accents. No people. Smooth comic shading, vibrant colors, soft glow effects, nostalgic but futuristic atmosphere --v 7 --style raw
+Ultra-Minimal Luxury Cyber Café Use <UPLOAD_IMAGE> as the structure. Transform it into a sleek cartoon futuristic luxury cyber café with polished chrome surfaces, soft white neon, transparent holographic coffee machines, floating menus, and minimalistic sci-fi décor. No people. Clean lines, subtle glows, high-end futuristic vibe, refined cartoon aesthetic --v 7 --style raw
+Hyper-Neon LED Fitness Lab Use this room as the base: <UPLOAD_IMAGE>. Transform it into a hyper-vivid cartoon futuristic LED fitness lab with glowing dumbbells, neon treadmill lines, holographic workout screens, and sci-fi lighting embedded in floors and walls. No people. Smooth cartoon shading, saturated colors, bright neon reflections, energetic LED atmosphere --v 7 --style raw
+Minimal Futuristic LED Gym (Clean & Sleek) Use <UPLOAD_IMAGE> as the environment. Convert it into a minimalist cartoon futuristic LED gym with sleek geometric fitness machines, soft white and blue neon accents, glowing wall panels, and floating hologram indicators. No people. Clean lines, subtle glow, refined high-tech aesthetic, smooth comic-style shading --v 7 --style raw
+Cyberpunk LED Training Room <UPLOAD_IMAGE> as the base. Reimagine it as a cartoonish cyberpunk LED workout room with deep purple and blue neon lighting, holographic training stats, LED-outlined equipment, and glowing floor grids. No people. Darker futuristic tone, bold neon contrasts, soft cartoon glow, detailed sci-fi fitness environment --v 7 --style raw
+Cartoon Sci-Fi Fitness Studio Use <UPLOAD_IMAGE>. Transform it into a bright cartoon sci-fi fitness studio with glowing curved gym machines, hologram resistance bands, neon panel walls, smooth digital displays, and soft-gradient LED strips. No people. Vibrant colors, clean futuristic surfaces, fun animated style, cinematic neon lighting --v 7 --style raw
+Luxury LED Gym (High-End Futurism) Use <UPLOAD_IMAGE> as the structure. Convert it into a cartoonish high-end futuristic LED gym with glossy black surfaces, white neon trim, holographic mirrors, premium LED-outlined equipment, and ambient sci-fi lighting. No people. Polished, sleek, modern, vivid glow effects, ultra-clean cartoon futurism --v 7 --style raw
+Hyper-Neon VR Simulation Room Use <UPLOAD_IMAGE> as the base. Transform it into a cartoonish hyper-neon VR simulation room with glowing VR pads, holographic 3D shapes floating in the air, neon grid floors, animated light trails, and sci-fi interface panels. No people. Bright saturated colors, soft neon glows, smooth cartoon shading, energetic futuristic atmosphere --v 7 --style raw
+Minimal Futuristic VR Studio Use this room as the environment: <UPLOAD_IMAGE>. Convert it into a sleek cartoon futuristic VR studio with simple geometric platforms, soft white and blue LED lighting, hologram interface rings, and minimalistic sci-fi décor. No people. Clean lines, subtle glow, refined high-tech feel, smooth animated shading --v 7 --style raw
+Cyberpunk VR Chamber Base the scene on <UPLOAD_IMAGE>. Reimagine it as a cartoonish cyberpunk VR chamber with purple and teal neon lighting, holographic grids on walls, glowing geometric projections, floating UI windows, and LED-embedded surfaces. No people. Deep cyber aesthetics, bold neon contrasts, smooth comic shading --v 7 --style raw
+VR Fantasy Portal Room Use <UPLOAD_IMAGE>. Transform the room into a cartoonish VR portal chamber with glowing rings, swirling holographic particles, floating symbols, neon-lit platforms, and vivid multicolor lighting. No people. Magical sci-fi energy, vibrant cartoon colors, clean outlines, immersive futuristic ambience --v 7 --style raw
+Luxury High-End VR Lab Use <UPLOAD_IMAGE> as the structure. Convert it into a cartoonish luxury futuristic VR lab with glossy surfaces, white and gold neon accents, transparent holographic control panels, and elegant curved LED lighting. No people. Polished high-end futurism, smooth cartoon style, refined glows and sharp clarity --v 7 --style raw
+Hyper-Neon Futuristic Mall Use <UPLOAD_IMAGE> as the base. Transform it into a cartoonish hyper-neon futuristic mall filled with glowing storefronts, holographic sale signs, floating advertisements, LED-lined hallways, and vibrant digital décor. No people. Bright saturated colors, smooth cartoon shading, intense neon reflections, energetic sci-fi mall atmosphere --v 7 --style raw
+Minimalist Luxury Future Mall Use this room as the environment: <UPLOAD_IMAGE>. Convert it into a clean cartoon futuristic luxury mall with soft white neon edges, curved architectural shapes, holographic store logos, and minimalistic digital panels. No people. Subtle glow, sleek surfaces, refined high-tech aesthetic, smooth animated shading --v 7 --style raw
+Cyberpunk Shopping District Base the scene on <UPLOAD_IMAGE>. Reimagine it as a cartoonish cyberpunk mall interior with deep purple and teal neon lights, glowing store entrances, holographic floating product displays, and LED grid floors. No people. Bold neon contrasts, dark futuristic tones, soft comic-style glow --v 7 --style raw
+Pastel-Futuristic Shopping Plaza Use <UPLOAD_IMAGE>. Transform the room into a cartoonish pastel futuristic mall with soft pink, blue, and lavender neon lighting, hologram merchandise panels, rounded store designs, and gentle glowing floors. No people. Cute bright sci-fi aesthetic, airy cartoon shading, smooth gradients --v 7 --style raw
+High-End Tech Mall Atrium Use <UPLOAD_IMAGE> as the structure. Convert it into a cartoonish high-end tech mall atrium with tall holographic pillars, interactive digital walls, glowing directional signs, polished LED walkways, and sleek geometric store fronts. No people. Crisp lines, elegant futurism, saturated neon accents, cinematic cartoon lighting --v 7 --style raw
+Hyper-Neon EDM Nightclub Use <UPLOAD_IMAGE> as the base. Transform it into a cartoonish hyper-neon EDM nightclub with glowing dance floors, holographic laser beams, neon equalizer bars, floating DJ lights, and LED wall grids. No people. Bright saturated colors, strong neon contrasts, smooth cartoon shading, high-energy futuristic party vibe --v 7 --style raw
+Futuristic Luxury Night Lounge Use this room as the environment: <UPLOAD_IMAGE>. Convert it into a sleek cartoon futuristic night lounge with reflective LED floors, soft ambient neon lines, floating hologram drink menus, curved glowing seating, and elegant sci-fi lighting. No people. Clean outlines, subtle glow, refined futuristic nightlife aesthetic --v 7 --style raw
+Cyberpunk Dance Chamber Base the transformation on <UPLOAD_IMAGE>. Reimagine it as a cartoonish cyberpunk nightclub with deep purple and teal neon beams, glowing wall patterns, holographic sound waves, and LED strip lighting across floors and ceilings. No people. Dark futuristic mood, bold neon contrasts, smooth comic-style glow --v 7 --style raw
+Pastel Neon Party Room Use <UPLOAD_IMAGE>. Turn it into a cartoonish pastel futuristic nightclub with soft pink, aqua, and lavender neon lights, hologram confetti, rounded dance-floor panels, and glowing bubbly décor. No people. Cute, airy, colorful cartoon shading with soft gradients and bright futurism --v 7 --style raw
+High-End Sci-Fi Rave Hall Use <UPLOAD_IMAGE> as the structure. Transform it into a cartoonish high-end sci-fi rave hall with towering holographic pillars, animated neon circuitry on the walls, pulsating LED floor grids, and futuristic sound-reactive lighting. No people. Sharp lines, ultra-clean surfaces, saturated neon effects, vibrant futuristic energy --v 7 --style raw
+Hyper-Neon Futuristic Lounge Use <UPLOAD_IMAGE> as the base. Transform it into a cartoonish hyper-neon futuristic lounge with glowing couches, illuminated tables, holographic wall art, neon floor strips, and vibrant LED mood lighting. No people. Bright saturated colors, soft neon glows, smooth cartoon shading, energetic sci-fi lounge atmosphere --v 7 --style raw
+Minimal Luxury Future Lounge Use this room as the environment: <UPLOAD_IMAGE>. Convert it into a clean cartoon futuristic luxury lounge with soft white neon accents, curved high-end seating, floating hologram décor elements, and subtle LED lines built into the walls and floor. No people. Refined glow, sleek surfaces, minimalist high-tech mood, smooth polished shading --v 7 --style raw
+Cyberpunk Neon Lounge Base the transformation on <UPLOAD_IMAGE>. Reimagine it as a cartoonish cyberpunk lounge with deep purple and teal neon lighting, glowing geometric furniture, holographic panels, LED ceiling grids, and neon atmospheric reflections. No people. Dark but vivid futuristic vibe, bold neon contrasts, soft comic-style glow --v 7 --style raw
+Pastel Sci-Fi Lounge Use <UPLOAD_IMAGE>. Turn it into a cartoonish pastel futuristic lounge with soft pink, aqua, lavender, and mint neon lights, rounded furniture shapes, glowing pastel wall accents, and floating soft hologram décor. No people. Cute airy cartoon shading, gentle gradients, colorful bright futurism --v 7 --style raw
+Ultra-Modern Tech Lounge Use <UPLOAD_IMAGE> as the structure. Transform it into a cartoonish ultra-modern tech lounge with glossy surfaces, white and blue LED illumination, angular glowing furniture, holographic screen panels, and elegant digital lighting effects. No people. Crisp lines, clean futuristic style, saturated neon accents, cinematic cartoon lighting --v 7 --style raw
+Hyper-Neon Rooftop Sunset Use <UPLOAD_IMAGE> as the base. Transform it into a cartoonish hyper-neon rooftop at sunset with glowing pink–purple skies, neon-lit skyscrapers, holographic light beams, LED railings, and reflective rooftop tiles. No people. Bright saturated colors, strong neon contrasts, smooth cartoon shading, vibrant futuristic skyline energy --v 7 --style raw
+Luxury Futuristic Sky Lounge Rooftop Use this room as the environment: <UPLOAD_IMAGE>. Convert it into a sleek cartoon futuristic rooftop sky lounge with glowing furniture, soft golden sunset gradients, floating holographic panels, curved LED borders, and a clean panoramic skyline. No people. Refined glow, smooth futuristic surfaces, elegant cartoon atmosphere --v 7 --style raw
+Cyberpunk Rooftop at Dusk Base the scene on <UPLOAD_IMAGE>. Reimagine it as a cartoonish cyberpunk rooftop at dusktime with deep magenta and teal neon lights, hologram billboards in the distance, glowing vents, neon wires, and a gritty but vibrant skyline. No people. Darker but vivid futuristic tone, bold neon contrasts, cinematic comic-style glow --v 7 --style raw
+Pastel Dreamscape Futuristic Rooftop Use <UPLOAD_IMAGE>. Turn the scene into a cartoonish pastel futuristic rooftop with soft pink, lavender, baby blue, and peach skies, floating hologram butterflies, glowing pastel railings, and smooth rounded rooftop shapes. No people. Cute airy cartoon shading, gentle gradients, dreamy sci-fi pastel vibe --v 7 --style raw
+High-Tech Futuristic Rooftop Terrace Use <UPLOAD_IMAGE> as the structure. Transform it into a cartoonish high-tech rooftop terrace with glossy surfaces, blue and white LED strips, holographic skyline elements, floating neon signage, and reflective sunset lighting. No people. Crisp lines, clean futurism, saturated neon accents, polished cartoon ambience --v 7 --style raw
+Neon Suburban Starlight (Classic) Use <UPLOAD_IMAGE> as the base environment. Convert it into a glowing futuristic suburban night scene with neon-lit streetlights, holographic lamp posts, shimmering starlit sky, and reflective sidewalks. No people. Cartoonish, vivid colors, sci-fi suburban atmosphere, polished outlines, crisp futuristic details --v 7 --style raw
+Cosmic Suburban Glow Use <UPLOAD_IMAGE> as the base. Transform the space into a cosmic suburban night environment with swirling nebula skies, glowing star clusters, soft neon accents, futuristic homes, and radiant pathways. No people. Cartoonish, vibrant, dreamy and futuristic aesthetic --v 7 --style raw
+Soft Pastel Futuristic Suburb Use <UPLOAD_IMAGE> as the base. Reimagine it as a pastel-colored futuristic suburban night with soft pink, blue, and purple glows, gentle neon streetlights, floating light particles, and smooth cartoon shading. No people. Clean lines, cute futuristic vibe --v 7 --style raw
+Hyper-Vivid Neon Suburb Use <UPLOAD_IMAGE> as the base. Turn it into an ultra-vivid futuristic suburban night with extremely bright neon lighting, glowing roads, holo-signs, and a star-saturated sky. No people. High-saturation cartoon style, crisp outlines, energetic futuristic aesthetic --v 7 --style raw
+Luminescent Parkside Suburb Use <UPLOAD_IMAGE> as the base. Convert it into a tranquil futuristic suburban park scene at night, glowing street lamps, illuminated trees, neon benches, and shimmering stars in the sky. No people. Cartoonish, serene, luminous atmosphere --v 7 --style raw
+Futuristic Cozy Neighborhood Use <UPLOAD_IMAGE> as the base. Transform the area into a warm, futuristic suburban neighborhood glowing with orange and blue neon lighting, digital lanterns, and soft starlight. No people. Cartoonish, cozy yet futuristic, smooth shading --v 7 --style raw
+Cyber Suburban Nightscape Use <UPLOAD_IMAGE> as the base. Reimagine it as a cyber-style suburban night scene, glowing pipes, neon electric lines, techy street posts, and a star-filled sky with subtle holographic elements. No people. Cartoonish, bold, energetic cyber aesthetic --v 7 --style raw
+Dreamy Suburban Aurora Use <UPLOAD_IMAGE> as the base. Convert it into a futuristic suburban night with glowing aurora skies, shimmering lights, neon accents, and radiant paths. No people. Cartoonish, colorful, ethereal sci-fi vibe --v 7 --style raw
+Starlit Zen Suburb Use <UPLOAD_IMAGE> as the base. Turn it into a calm futuristic suburban night setting with minimalist neon lighting, glowing minimal street posts, and a sky full of tiny shimmering stars. No people. Cartoonish, clean, elegant futuristic style --v 7 --style raw
+Galaxy Suburban Streets Use <UPLOAD_IMAGE> as the base. Transform it into a galaxy-themed futuristic suburban night environment with star trails in the sky, glowing cosmic reflections, neon-lit houses, and digital pathways. No people. Cartoonish, bright, galactic futuristic aesthetic --v 7 --style raw
+Cyber Neon Beachwalk Use <UPLOAD_IMAGE> as the base. Convert it into a cartoon futuristic beach boardwalk glowing with neon pink and cyan lights, holographic palm tree projections, and a shimmering neon ocean horizon. No people. Smooth cartoon shading, bold outlines, vivid colors, sci-fi glow --v 7 --style raw
+Futuristic Coastal Nightscape Use <UPLOAD_IMAGE>. Transform into a bright cartoon futuristic coastline with glowing boardwalk panels, floating LED buoys on the dark ocean, neon-lit umbrellas, and holographic beach signs. No people. Vibrant colors, clean neon edges, soft nighttime atmosphere --v 7 --style raw
+Luminous Midnight Beach Use <UPLOAD_IMAGE> as base. Reimagine it as a dreamy cartoon neon beach at midnight with violet skies, glowing sand reflections, radiant streetlights, and softly illuminated ocean waves. No people. Smooth pastel-futuristic cartoon look --v 7 --style raw
+Neon Arcade Boardwalk Beach Use <UPLOAD_IMAGE>. Turn the scene into a fun cartoon neon boardwalk with arcade-style glowing colors, cyber boardwalk planks, animated hologram seagulls, and a bright teal ocean glow. No people. Playful futuristic cartoon energy --v 7 --style raw
+Cosmic Beach Glow Use <UPLOAD_IMAGE>. Transform into a cosmic cartoon futuristic beach with glowing starlit sky, floating neon particles, hovering lamps, and a multicolor bioluminescent ocean. No people. Vibrant cosmic neon tones, crisp cartoon lining --v 7 --style raw
+Soft Pastel Futuristic Coast Use <UPLOAD_IMAGE>. Convert into a pastel cartoon beach boardwalk at night with gentle luminous gradients, soft neon rail lights, holographic moon glow, and smooth futuristic shapes. No people. Airy pastel cartoon atmosphere --v 7 --style raw
+High-Tech Oceanfront View Use <UPLOAD_IMAGE>. Transform it into a sleek futuristic cartoon beach setting with glowing LED floor strips, digital beach signs, neon-reflective planks, and a clean luminescent ocean horizon. No people. Polished futuristic cartoon style --v 7 --style raw
+Cyber-Blue Night Beach Use <UPLOAD_IMAGE>. Reimagine as a cartoon beach at night with deep blue neon, glowing turquoise waves, shimmering reflections, cyberpunk-inspired boardwalk lights, and hologram palm silhouettes. No people. Bold, vivid neon cartoon style --v 7 --style raw
+Retro-Futuristic Beach Boardwalk Use <UPLOAD_IMAGE>. Turn the environment into a retro-inspired cartoon futuristic beach with glowing pink grid floors, shining chrome accents, neon sun reflections, and a synthwave-style ocean. No people. Vaporwave neon cartoon vibe --v 7 --style raw
+Ultra-Vivid Neon Ocean Walk Use <UPLOAD_IMAGE> as base. Transform it into an ultra-vibrant cartoon futuristic boardwalk with explosive neon lighting, radiant ocean shimmer, 3D holographic sea creatures, and glowing coastal rails. No people. High saturation, sharp cartoon glow --v 7 --style raw
+Neon Tropical Infinity Oasis Use <UPLOAD_IMAGE> as the base. Transform it into a cartoon futuristic tropical resort with glowing infinity pools, neon palm trees, radiant turquoise water, and holographic island lights. No people. Bright neon colors, smooth cartoon shading, vivid sci-fi tropical atmosphere --v 7 --style raw
+Futuristic Sunset Pool Resort Use <UPLOAD_IMAGE>. Convert the room into a cartoonish futuristic resort terrace with glowing orange–pink sunset gradients, reflective infinity pools, neon-lit palm silhouettes, and holographic tiki lamps. No people. Warm vivid colors, soft shading, clean futuristic style --v 7 --style raw
+Tropical Cyber-Pool Retreat Use <UPLOAD_IMAGE>. Reimagine as a cyberpunk tropical pool paradise with LED pool edges, glowing railings, neon vines, and a deep teal glowing ocean backdrop. No people. Vibrant neon contrast, bold lines, vivid colorful cartoon finish --v 7 --style raw
+Pastel Futuristic Pool Escape Use <UPLOAD_IMAGE>. Turn the scene into a pastel futuristic tropical pool resort with soft glowing water, neon pastel palm trees, smooth round structures, and a gentle lavender sky. No people. Airy cartoon pastel look, dreamy futuristic vibe --v 7 --style raw
+Ultra-Lux Neon Resort Use <UPLOAD_IMAGE>. Transform into a luxurious futuristic tropical resort with glowing infinity pools, shimmering LED pathways, bright neon reflections, holographic cabanas, and radiant tropical plants. No people. Polished cartoon futurism --v 7 --style raw
+Cosmic Tropical Pool Terrace Use <UPLOAD_IMAGE>. Reimagine the space as a cosmic futuristic tropical pool deck under a star-filled neon sky, with glowing star reflections in the infinity pool and hologram palm fronds. No people. Cosmic neon color palette, crisp cartoon edges --v 7 --style raw
+Retro-Futuristic Resort Pool Use <UPLOAD_IMAGE>. Convert into a retro-style futuristic tropical resort with neon pink and blue grid-lit water, synthwave palm trees, and a glowing sunset horizon. No people. Vibrant vaporwave cartoon style --v 7 --style raw
+Luminous Night Pool Paradise Use <UPLOAD_IMAGE>. Transform into a cartoonish neon night tropical resort with ocean-blue glowing pools, radiant purple sky, holographic lights, and LED palm shadows. No people. Deep neon glow, strong saturation, clean cartoon design --v 7 --style raw
+Crystal Blue Futuristic Lagoon Use <UPLOAD_IMAGE>. Reimagine as a futuristic lagoon-style tropical pool with smooth glowing water, bioluminescent plants, sleek sci-fi structures, and soft reflective neon lighting. No people. Gentle vibrant cartoon shading --v 7 --style raw
+Ultra-Vivid Tropical Sky Resort Use <UPLOAD_IMAGE>. Turn the room into a floating futuristic tropical pool resort high above the ocean, with glowing infinity pools, neon mist, holographic palm clusters, and a vivid glowing sky. No people. High-energy colorful cartoon futurism --v 7 --style raw
+Neon Hologram Concert Stage Use <UPLOAD_IMAGE> as the base. Transform the scene into a cartoon futuristic concert stage with neon beams, holographic lights, floating LED panels, glowing speakers, and vibrant laser patterns. No people. Bold outlines, vivid neon colors, smooth cartoon shading --v 7 --style
+Futuristic Festival Grounds Use <UPLOAD_IMAGE>. Convert it into a cartoonish futuristic music festival setup featuring glowing archways, radiant stage lights, holographic decorations, and neon-lit structures. No people. Vivid colors, high saturation, sci-fi concert atmosphere --v 7 --style raw
+Cyberpunk Concert Arena Use <UPLOAD_IMAGE>. Reimagine the room as a neon cyberpunk concert arena with glowing LED grids, hologram stage projections, vibrant spotlights, and dramatic neon shadows. No people. Intense neon cartoon glow --v 7 --style raw
+Pastel Festival Stage Use <UPLOAD_IMAGE>. Turn it into a pastel-colored futuristic concert stage with soft glowing lights, holographic pastel beams, smooth rounded shapes, and dreamy neon gradients. No people. Gentle cartoon pastel futurism --v 7 --style raw
+High-Tech Laser Concert Hall Use <UPLOAD_IMAGE>. Transform it into a high-tech futuristic concert hall with powerful laser arrays, glowing floor panels, giant holographic screens, and radiant neon accents. No people. Crisp neon cartoon finish --v 7 --style raw
+Vibrant Night Festival Lights Use <UPLOAD_IMAGE>. Convert into a cartoon night festival scene with glowing lanterns, neon festival decorations, bright spotlight beams, and colorful holographic signage. No people. Soft vibrant neon palette, cartoon shading --v 7 --style raw
+Synthwave Concert Stage Use <UPLOAD_IMAGE>. Reimagine as a retro-futuristic synthwave concert stage with pink/blue neon grids, glowing horizon lights, and chrome structures. No people. Vaporwave neon cartoon style --v 7 --style raw
+Cosmic Concert Environment Use <UPLOAD_IMAGE>. Turn the space into a cosmic futuristic concert stage with floating neon planets, starlight beams, glowing cosmic dust, and energy wave lights. No people. Cosmic neon cartoon aesthetic --v 7 --style raw
+Ultra-Luminous Festival Stage Use <UPLOAD_IMAGE>. Transform into a super bright futuristic festival scene with oversized glowing speakers, radiant LED totems, holographic light waves, and animated neon reflections. No people. Ultra-saturated cartoon glow --v 7 --style raw
+Hyper-Color Concert Arena Use <UPLOAD_IMAGE>. Turn it into a high-energy cartoon concert arena with colorful stacked LED screens, glowing laser sweeps, neon confetti lights, and bright reflective floors. No people. High-contrast vivid cartoon style --v 7 --style raw
+Neon Mountain Campsite Use <UPLOAD_IMAGE> as the base. Transform it into a cartoon futuristic mountain campsite with glowing neon tents, radiant lanterns, holographic pine trees, and a vivid starlit sky. No people. Bold outlines, bright neon colors, smooth cartoon shading --v 7 --style raw
+Cosmic Camping Glow Use <UPLOAD_IMAGE>. Reimagine as a cosmic futuristic campsite with floating glowing tents, bioluminescent plants, shimmering starfields, and neon mountain silhouettes. No people. Vivid cosmic colors, crisp cartoon lines --v 7 --style raw
+Pixar-Style Mountain Night Use <UPLOAD_IMAGE>. Convert into a Pixar-inspired cartoon campsite with softly glowing tents, warm lantern light, reflective neon rocks, and a dreamy purple starry sky. No people. Gentle shading, bright colors, soft futuristic charm --v 7 --style raw
+Cyber Wilderness Campsite Use <UPLOAD_IMAGE>. Transform the environment into a cyberpunk mountain campsite with LED-lit tents, glowing energy lanterns, holographic wildlife silhouettes, and neon forest edges. No people. Deep neon accents, vibrant cartoon futurism --v 7 --style raw
+Pastel Mountain Camping Scene Use <UPLOAD_IMAGE>. Turn it into a pastel cartoon mountain campsite with gentle glowing tents, soft neon gradients, floating light motes, and a calm bioluminescent forest. No people. Pastel futuristic cartoon vibe --v 7 --style raw
+Starfield Infinity Camp Use <UPLOAD_IMAGE>. Reimagine as a futuristic infinite mountain viewpoint with glowing tents, starlight reflecting across neon rocks, holographic constellations, and cool ambient lighting. No people. Crisp vivid cartoon glow --v 7 --style raw
+Ultra-Vivid Lantern Camp Use <UPLOAD_IMAGE>. Convert it into a glowing cartoon mountain campsite with giant radiant lanterns, bright LED tent strips, shimmering planetary sky, and glowing ridge lines. No people. Extremely vivid neon cartoon style --v 7 --style raw
+Retro-Futuristic Camping Spot Use <UPLOAD_IMAGE>. Transform into a retro-futuristic camping site with synthwave grid mountains, glowing tents in pink/blue neon, and a vaporwave star horizon. No people. Bright neon vaporwave cartoon style --v 7 --style raw
+Bioluminescent Forest Camp Use <UPLOAD_IMAGE>. Reimagine as a glowing mountain forest campsite with bioluminescent trees, radiant tent fabrics, floating light spores, and a bright teal starry sky. No people. Soft, vivid, glowing cartoon fantasy --v 7 --style raw
+High-Tech Camping Ridge Use <UPLOAD_IMAGE>. Transform it into a high-tech mountain campsite with sleek LED tents, glowing pathways, holo-lanterns, minimalist futuristic slopes, and neon atmospheric lighting. No people. Clean, bright, vivid cartoon futurism --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the scene into a cartoonish futuristic lake house dock with glowing neon-blue water, radiant reflections, holographic wooden planks, soft ambient lake lights, and futuristic cabin structures in the background. No people. Add subtle glowing lanterns, floating neon particles, luminous shoreline details, and a vivid sci-fi lakeside atmosphere. Bold outlines, smooth cartoon shading, bright saturated colors, polished futuristic lakeside aesthetic --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the scene into a cartoonish futuristic urban street with neon-lit graffiti walls, glowing murals, holographic paint effects, radiant LED accents, and vibrant sci-fi alley details. No people. Add luminous reflections, floating neon particles, colorful street glows, bold outlines, smooth cartoon shading, and a vivid futuristic street-art atmosphere. Futuristic cartoon urban graffiti environment --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the scene into a cartoonish futuristic carnival with a glowing neon Ferris wheel, holographic rides, radiant food stalls, colorful LED string lights, and vibrant sci-fi carnival decorations. No people. Add luminous reflections, bright pastel-neon gradients, floating light particles, bold cartoon outlines, smooth shading, and an ultra-vivid futuristic amusement park atmosphere. Futuristic cartoon carnival environment --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the scene into a vibrant cartoonish futuristic garden café filled with glowing plants, neon-lit vines, floating lantern lights, holographic café décor, colorful futuristic tables, and soft luminous greenery. No people. Add vivid pastel-neon tones, bold cartoon outlines, smooth shading, glowing ambience, and a bright futuristic outdoor brunch aesthetic. Futuristic cartoon garden café environment --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a vibrant cartoonish futuristic home theater night scene, featuring a large glowing cinema screen, neon LED strip lighting, floating holographic popcorn buckets, vivid cartoon cushions, soft luminous shadows, and futuristic entertainment décor. No people. Style it with bold cartoon outlines, vivid neon colors, smooth Pixar-like shading, and a cozy futuristic cinema atmosphere. Futuristic cartoon home theater environment --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a vibrant cartoonish futuristic modern loft with industrial chic elements — exposed beams, large glowing windows, neon-accented plants, metallic textures, soft LED mood lighting, holographic décor pieces, and reflective futuristic materials. No people. Style it with bold cartoon outlines, vivid neon colors, smooth Pixar-like shading, and a bright futuristic loft atmosphere. Futuristic cartoon industrial loft interior --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a vibrant cartoonish futuristic kitchen inspired by a fun cooking-themed atmosphere — glowing countertops, neon utensils, colorful holographic appliances, soft LED under-lighting, floating ingredient icons, and smooth futuristic surfaces. No people. Style it with bold cartoon outlines, vivid colors, Pixar-like shading, and a playful futuristic kitchen aesthetic. Futuristic cartoon kitchen interior --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a stylish cartoonish futuristic balcony scene overlooking a glowing neon cityscape. Add sleek balcony railings, soft LED lighting, floating holographic plants, futuristic furniture, and vibrant atmospheric glow. No people. Style it with bold cartoon outlines, vivid saturated colors, smooth Pixar-like shading, and a playful futuristic vibe. Futuristic cartoon balcony environment --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a cozy cartoonish futuristic fireplace scene. Add a modern glowing fireplace with holographic flames, soft futuristic blankets, neon-accent pillows, warm ambient LED lighting, and subtle high-tech décor. No people. Style it with bold cartoon outlines, vivid saturated colors, warm glowing highlights, and smooth Pixar-like shading. Cozy futuristic cartoon fireplace environment --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a futuristic cartoon-style gaming living room. Add neon-lit game consoles, glowing LED accents, holographic screens, colorful beanbags, floating shelves with stylized gaming décor, and a vibrant sci-fi background. No people. Style it with vivid saturated colors, bold cartoon outlines, smooth Pixar-like shading, and glowing futuristic lighting throughout. Cartoonish, vivid, futuristic gaming living room --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the room into a cozy cartoon-style futuristic reading nook. Add glowing bookshelves, soft neon accent lights, floating holographic books, warm ambient lighting, plush cushions, and gentle futuristic décor elements. No people. Style it with vivid saturated colors, bold cartoon outlines, smooth Pixar-like shading, and a softly glowing futuristic background. Cartoonish, vivid, cozy, futuristic reading nook --v 7 --style raw
+Use <UPLOAD_IMAGE> as the base environment. Transform the staircase into a stylish cartoon futuristic stair hall with glowing steps, neon railings, soft ambient lighting, and sleek modern architectural lines. Add holographic wall accents, glowing trim details, and a vivid futuristic background. No people. Style it with bold cartoon outlines, smooth Pixar-like shading, bright saturated colors, and a lively, vivid futuristic cartoon aesthetic. Cartoonish, futuristic, vibrant environment --v 7 --style raw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

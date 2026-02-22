@@ -1,0 +1,8 @@
+/* Design Tokens for Theming */
+:root {
+--mystic-primary: #ff7a18;
+--mystic-primary-light: #ff9e57;
+--mystic-shadow: rgba(0, 0, 0, 0.15);
+--mystic-radius: 18px;
+--mystic-padding: 14px;
+}

@@ -1,0 +1,921 @@
+/* =========================== */
+/* ROOT THEME COLORS           */
+/* =========================== */
+:root {
+  --brand-orange: #ff7a18;
+  --brand-orange-light: #ff9e57;
+  --text-dark: #111;
+  --text-light: #fff;
+  --bg-light: #ffffff;
+  --bg-dark: #0d0d0d;
+  --radius: 16px;
+}
+
+/* =========================== */
+/* GLOBAL RESETS               */
+/* =========================== */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg-light);
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text-dark);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* =========================== */
+/* HERO SECTION                */
+/* =========================== */
+.hero {
+  min-height: 75vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(135deg, var(--brand-orange-light), var(--brand-orange));
+  color: var(--text-light);
+}
+
+.hero .title {
+  font-size: 3.4rem;
+  margin-bottom: 10px;
+}
+
+.hero .subtitle {
+  font-size: 1.2rem;
+  opacity: 0.9;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 12px 24px;
+  background: #fff;
+  border-radius: var(--radius);
+  color: var(--brand-orange);
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: var(--text-light);
+  opacity: 0.9;
+}
+
+/* =========================== */
+/* SECTIONS                    */
+/* =========================== */
+.section {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+/* =========================== */
+/* NAVIGATION BAR              */
+/* =========================== */
+
+.navbar {
+  background: var(--brand-orange);
+  padding: 10px 20px;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.nav-logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: white;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  color: white;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  opacity: 0.8;
+}
+
+/* Mobile toggle */
+.nav-toggle {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: white;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .nav-links {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background: var(--brand-orange);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px 0;
+    display: none;
+  }
+
+  .nav-links a {
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+}
+
+
+/* =========================== */
+/* FOOTER                      */
+/* =========================== */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: var(--brand-orange);
+  color: var(--text-light);
+}
+/* =========================== */
+/* FEATURES SECTION            */
+/* =========================== */
+.features {
+  padding: 60px 20px;
+  text-align: center;
+  background: #fff;
+}
+
+.features-title {
+  font-size: 2.4rem;
+  margin-bottom: 40px;
+  color: var(--brand-orange);
+}
+
+.features-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  max-width: 1000px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  background: var(--bg-light);
+  padding: 25px;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  width: 280px;
+  transition: 0.3s;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.feature-card h3 {
+  color: var(--brand-orange);
+  margin-bottom: 10px;
+}
+
+.feature-card p {
+  color: var(--text-dark);
+  opacity: 0.8;
+}
+/* =========================== */
+/* CONTACT SECTION             */
+/* =========================== */
+.contact-section {
+  padding: 60px 20px;
+  text-align: center;
+  background: var(--brand-orange-light);
+  color: white;
+}
+
+.contact-section h2 {
+  font-size: 2.4rem;
+  margin-bottom: 15px;
+}
+
+.contact-section p {
+  opacity: 0.9;
+  margin-bottom: 30px;
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  border-radius: var(--radius);
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+
+.contact-btn {
+  background: white;
+  color: var(--brand-orange);
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.contact-btn:hover {
+  opacity: 0.9;
+}
+/* =========================== */
+/* BLOG PAGE                   */
+/* =========================== */
+.blog-header {
+  text-align: center;
+  padding: 60px 20px;
+  background: var(--brand-orange);
+  color: white;
+}
+
+.blog-header h1 {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+.blog-container {
+  max-width: 1100px;
+  margin: 40px auto;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blog-card {
+  width: 320px;
+  background: white;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.blog-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.blog-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.blog-card h3 {
+  padding: 15px;
+  color: var(--brand-orange);
+}
+
+.blog-card p {
+  padding: 0 15px 15px 15px;
+  color: var(--text-dark);
+  opacity: 0.85;
+}
+
+.blog-btn {
+  display: block;
+  margin: 0 15px 15px 15px;
+  text-align: center;
+  padding: 10px;
+  background: var(--brand-orange);
+  color: white;
+  border-radius: var(--radius);
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.blog-btn:hover {
+  opacity: 0.85;
+}
+/* =========================== */
+/* GALLERY PAGE                */
+/* =========================== */
+.gallery-header {
+  text-align: center;
+  padding: 60px 20px;
+  background: var(--brand-orange);
+  color: white;
+}
+
+.gallery-header h1 {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+.gallery-grid {
+  max-width: 1100px;
+  margin: 40px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.gallery-item {
+  overflow: hidden;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  transition: 0.4s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.08);
+}
+/* =========================== */
+/* FOOTER ICONS                */
+/* =========================== */
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.footer-icon {
+  font-size: 1.6rem;
+  color: white;
+  opacity: 0.9;
+  transition: 0.3s;
+}
+
+.footer-icon:hover {
+  opacity: 1;
+  transform: scale(1.15);
+}
+/* =========================== */
+/* SECTION REVEAL ANIMATIONS   */
+/* =========================== */
+
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Staggered children animations */
+.reveal-stagger > * {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.reveal-stagger.active > * {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Add delay to each child */
+.reveal-stagger > *:nth-child(1) {
+  transition-delay: 0.1s;
+}
+.reveal-stagger > *:nth-child(2) {
+  transition-delay: 0.2s;
+}
+.reveal-stagger > *:nth-child(3) {
+  transition-delay: 0.3s;
+}
+.reveal-stagger > *:nth-child(4) {
+  transition-delay: 0.4s;
+}
+.reveal-stagger > *:nth-child(5) {
+  transition-delay: 0.5s;
+}
+/* =========================== */
+/* DARK MODE                   */
+/* =========================== */
+
+body.dark {
+  background: #0b0b0b;
+  color: #f2f2f2;
+  transition: background 0.5s ease, color 0.5s ease;
+}
+
+/* Dark Mode - Navbar */
+body.dark .navbar {
+  background: #111;
+}
+
+body.dark .nav-links a {
+  color: #f2f2f2;
+}
+
+/* Dark Mode - Hero */
+body.dark .hero {
+  background: linear-gradient(135deg, #222, #000);
+  color: #fff;
+}
+
+/* Dark Mode - Sections */
+body.dark .section,
+body.dark .features,
+body.dark .contact-section,
+body.dark .blog-header,
+body.dark .gallery-header {
+  background: #0f0f0f;
+  color: #f2f2f2;
+}
+
+/* Dark Mode Cards */
+body.dark .feature-card,
+body.dark .blog-card,
+body.dark .gallery-item {
+  background: #1a1a1a;
+  color: #fafafa;
+}
+
+/* Dark Mode Buttons */
+body.dark .btn,
+body.dark .blog-btn,
+body.dark .contact-btn {
+  background: var(--brand-orange);
+  color: white;
+}
+
+/* Dark Mode Footer */
+body.dark .footer {
+  background: #111;
+}
+
+/* Toggle Button */
+.theme-toggle {
+  margin-left: 10px;
+  background: transparent;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  color: white;
+  transition: transform 0.3s ease;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.2);
+}
+/* =========================== */
+/* SCROLL TO TOP BUTTON        */
+/* =========================== */
+
+.scroll-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: var(--brand-orange);
+  color: white;
+  font-size: 1.5rem;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 20px rgba(255, 123, 0, 0.4);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  z-index: 999;
+}
+
+.scroll-top.show {
+  display: flex;
+  opacity: 1;
+}
+
+.scroll-top:hover {
+  transform: scale(1.15);
+}
+
+/* Dark mode scroll button */
+body.dark .scroll-top {
+  background: #222;
+  color: var(--brand-orange);
+  box-shadow: 0 6px 20px rgba(255, 123, 0, 0.25);
+}
+/* =========================== */
+/* PAGE FADE TRANSITIONS       */
+/* =========================== */
+
+.page-transition {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 9999;
+  transition: opacity 0.4s ease;
+}
+
+/* When activated */
+.page-transition.active {
+  opacity: 1;
+}
+
+/* Dark mode transition background */
+body.dark .page-transition {
+  background: #0b0b0b;
+}
+/* =========================== */
+/* PAGE PRELOADER              */
+/* =========================== */
+
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 99999;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.loader-circle {
+  width: 55px;
+  height: 55px;
+  border: 5px solid #ff7b00;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* HIDE LOADER */
+.preloader.hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* DARK MODE LOADER */
+body.dark .preloader {
+  background: #0b0b0b;
+}
+
+body.dark .loader-circle {
+  border-color: #ff7b00;
+  border-top-color: transparent;
+}
+.preloader.hide {
+  opacity: 0;
+  visibility: hidden;
+}
+/* ===========================
+   DARK MODE
+=========================== */
+body.dark {
+  background: #0b0b0b;
+  color: #f2f2f2;
+  transition: background 0.5s ease, color 0.5s ease;
+}
+
+body.dark .navbar {
+  background: #111;
+}
+
+body.dark .nav-links a {
+  color: #f2f2f2;
+}
+
+body.dark .hero {
+  background: linear-gradient(135deg, #222, #000);
+  color: #fff;
+}
+
+body.dark .section,
+body.dark .features,
+body.dark .contact-section,
+body.dark .blog-header,
+body.dark .gallery-header {
+  background: #0f0f0f;
+  color: #f2f2f2;
+}
+
+body.dark .feature-card,
+body.dark .blog-card,
+body.dark .gallery-item {
+  background: #1a1a1a;
+  color: #fafafa;
+}
+
+body.dark .btn,
+body.dark .blog-btn,
+body.dark .contact-btn {
+  background: var(--brand-orange);
+  color: white;
+}
+
+body.dark .footer {
+  background: #111;
+}
+
+.theme-toggle {
+  margin-left: 10px;
+  background: transparent;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  color: white;
+  transition: transform 0.3s ease;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.2);
+}
+
+/* ===========================
+   SCROLL TO TOP BUTTON
+=========================== */
+.scroll-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: var(--brand-orange);
+  color: white;
+  font-size: 1.5rem;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 20px rgba(255, 123, 0, 0.4);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  z-index: 999;
+}
+
+.scroll-top.show {
+  display: flex;
+  opacity: 1;
+}
+
+.scroll-top:hover {
+  transform: scale(1.15);
+}
+
+body.dark .scroll-top {
+  background: #222;
+  color: var(--brand-orange);
+}
+
+/* ===========================
+   PAGE TRANSITIONS
+=========================== */
+.page-transition {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 9999;
+  transition: opacity 0.4s ease;
+}
+
+.page-transition.active {
+  opacity: 1;
+}
+
+body.dark .page-transition {
+  background: #0b0b0b;
+}
+
+/* ===========================
+   PRELOADER
+=========================== */
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 99999;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.loader-circle {
+  width: 55px;
+  height: 55px;
+  border: 5px solid #ff7b00;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.preloader.hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
+body.dark .preloader {
+  background: #0b0b0b;
+}
+
+body.dark .loader-circle {
+  border-color: #ff7b00;
+  border-top-color: transparent;
+}
+
+/* ===========================
+   REVEAL ANIMATIONS
+=========================== */
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.reveal-stagger > * {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.reveal-stagger.active > * {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.reveal-stagger > *:nth-child(1) {
+  transition-delay: 0.1s;
+}
+.reveal-stagger > *:nth-child(2) {
+  transition-delay: 0.2s;
+}
+.reveal-stagger > *:nth-child(3) {
+  transition-delay: 0.3s;
+}
+.reveal-stagger > *:nth-child(4) {
+  transition-delay: 0.4s;
+}
+.reveal-stagger > *:nth-child(5) {
+  transition-delay: 0.5s;
+}
+/* ===========================
+   TYPEWRITER HERO ANIMATION
+=========================== */
+
+.typewriter-container {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #ff7b00;
+  text-align: center;
+  margin-bottom: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Blinking cursor */
+.typewriter-cursor {
+  font-weight: 400;
+  font-size: 2.8rem;
+  margin-left: 5px;
+  animation: blink 0.7s steps(1) infinite;
+  color: #ff7b00;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* Dark mode color */
+body.dark .typewriter-container {
+  color: #ff9b40;
+}
+
+body.dark .typewriter-cursor {
+  color: #ff9b40;
+}
+/* ====================================
+   PREMIUM GALLERY — ZOOM + LIFT EFFECT
+==================================== */
+
+.gallery-item {
+  border-radius: 14px;
+  overflow: hidden;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+/* Image zoom effect */
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.45s ease;
+  border-radius: 14px;
+}
+
+/* Combined hover effects */
+.gallery-item:hover img {
+  transform: scale(1.06); /* Zoom in */
+}
+
+.gallery-item:hover {
+  transform: translateY(-6px); /* Float upward */
+  box-shadow: 0 14px 32px rgba(0,0,0,0.22); /* Premium shadow */
+}
+
+/* Dark mode shadow tuning */
+body.dark .gallery-item:hover {
+  box-shadow: 0 14px 32px rgba(255,123,0,0.22);
+}
+.gallery-item:hover {
+  box-shadow:
+    0 14px 32px rgba(0,0,0,0.22),
+    0 0 14px rgba(255,123,0,0.25);
+}
+/* ====================================
+   HERO BUTTON ENTRANCE ANIMATION
+==================================== */
+
+.hero .btn {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.hero .btn.btn-enter {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+

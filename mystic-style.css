@@ -1,0 +1,153 @@
+/* ============================
+   MYSTIC-STYLE.CSS
+   Futuristic orange glow theme (dark default) + light-mode toggle
+   Includes blog page styles and small utilities
+   ============================ */
+
+/* Theme variables */
+:root{
+  --bg:#000000;
+  --text:#ffffff;
+  --accent:#ff7b00;
+  --card:#0e0e0e;
+  --muted: #cfcfcf;
+  --glass: rgba(255,255,255,0.03);
+  --shadow: 0 10px 30px rgba(255,123,0,0.12);
+  --glow: 0 0 30px rgba(255,123,0,0.18);
+  --radius: 12px;
+  --max-width:1200px;
+}
+
+/* Light mode overrides (applied by adding .light-mode to <body>) */
+body.light-mode {
+  --bg:#ffffff;
+  --text:#111111;
+  --card:#f7f7f7;
+  --glass: rgba(0,0,0,0.02);
+  --shadow: 0 8px 24px rgba(255,123,0,0.06);
+  --glow: 0 0 16px rgba(255,123,0,0.10);
+}
+
+/* Basic reset */
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family: "Inter", "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  transition: background .35s ease, color .35s ease;
+  line-height:1.6;
+}
+
+/* Container helpers */
+.container{
+  width:calc(100% - 40px);
+  max-width:var(--max-width);
+  margin:0 auto;
+  padding:20px;
+}
+
+/* Header */
+.header, .main-header {
+  background: linear-gradient(180deg, rgba(255,123,0,0.06), transparent);
+  border-bottom: 1px solid rgba(255,123,0,0.06);
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:18px 28px;
+  position:sticky;
+  top:0;
+  z-index:60;
+  backdrop-filter: blur(6px);
+  box-shadow: var(--glow);
+}
+.logo{font-weight:700;color:var(--accent);font-size:20px;letter-spacing:0.5px}
+.nav{display:flex;gap:18px;align-items:center}
+.nav a{color:var(--text);text-decoration:none;font-weight:600;padding:8px 10px;border-radius:8px;transition:all .18s}
+.nav a:hover{color:#000;background:var(--accent);box-shadow:var(--glow);text-decoration:none}
+
+/* Theme toggle button (placed right side) */
+.theme-btn, #theme-toggle {
+  border:2px solid rgba(255,123,0,0.22);
+  background:transparent;
+  color:var(--accent);
+  padding:8px 12px;
+  border-radius:10px;
+  cursor:pointer;
+  font-weight:600;
+  transition:all .18s;
+}
+.theme-btn:hover,#theme-toggle:hover{background:var(--accent);color:#000;box-shadow:var(--glow)}
+
+/* HERO */
+.hero{
+  text-align:center;padding:90px 20px 60px;
+  background: linear-gradient(180deg, rgba(255,123,0,0.02), transparent 40%);
+}
+.glow-title{
+  font-size:44px;
+  font-weight:800;
+  color:var(--text);
+  text-shadow: 0 6px 30px rgba(255,123,0,0.12);
+  margin-bottom:12px;
+}
+.hero-sub{
+  color:var(--muted);max-width:900px;margin:0 auto 20px;
+}
+.btn{
+  display:inline-block;background:var(--accent);color:#000;padding:12px 24px;border-radius:12px;text-decoration:none;font-weight:700;box-shadow:var(--glow);
+}
+
+/* FEATURES / CARDS */
+.features{display:flex;gap:22px;justify-content:center;padding:40px;flex-wrap:wrap}
+.feature-card{
+  width:300px;background:var(--card);border-radius:var(--radius);padding:22px;border:1px solid rgba(255,123,0,0.06);
+  box-shadow:var(--shadow);transition:transform .2s, box-shadow .2s;
+}
+.feature-card h3{color:var(--accent);margin-bottom:8px}
+.feature-card p{color:var(--muted);font-size:14px}
+.feature-card:hover{transform:translateY(-8px);box-shadow:0 20px 50px rgba(255,123,0,0.18)}
+
+/* BLOG LIST (index/blog.html previews) */
+.blogs-section{padding:40px 0}
+.blog-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.blog-card{
+  display:block;text-decoration:none;color:inherit;background:var(--card);padding:16px;border-radius:12px;border:1px solid rgba(255,123,0,0.06);
+  transition:transform .18s, box-shadow .18s;
+}
+.blog-card:hover{transform:translateY(-8px);box-shadow:0 20px 46px rgba(255,123,0,0.12)}
+.blog-card img{width:100%;height:170px;object-fit:cover;border-radius:8px;margin-bottom:10px}
+.blog-card h3{color:var(--accent);font-size:18px;margin-bottom:6px}
+.blog-card p{color:var(--muted);font-size:14px}
+
+/* BLOG ARTICLE PAGES */
+.sub-header{display:flex;align-items:center;gap:18px;padding:18px 24px;background:transparent}
+.back-btn{color:var(--muted);text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(255,123,0,0.06)}
+.back-btn:hover{color:#000;background:var(--accent)}
+.blog-container{
+  max-width:900px;margin:28px auto;padding:22px;background:var(--card);border-radius:12px;border:1px solid rgba(255,123,0,0.06);box-shadow:var(--shadow);
+}
+.blog-container h1{color:var(--accent);margin-bottom:12px}
+.blog-container p{color:var(--text);margin-bottom:16px}
+.blog-img{width:100%;border-radius:10px;object-fit:cover;margin:16px 0;box-shadow:var(--glow)}
+
+/* Footer */
+.footer{padding:28px;text-align:center;background:transparent;border-top:1px solid rgba(255,123,0,0.04);margin-top:40px;color:var(--muted)}
+
+/* Utilities */
+.center{text-align:center}
+.small{font-size:13px;color:var(--muted)}
+.kicker{font-weight:700;color:var(--accent);letter-spacing:0.6px;font-size:13px}
+
+/* Responsive */
+@media (max-width:880px){
+  .hero{padding:60px 16px}
+  .glow-title{font-size:34px}
+  .features{gap:14px}
+  .feature-card{width:100%}
+}
+
+/* Accessibility focus */
+a:focus, button:focus{outline:3px solid rgba(255,123,0,0.12);outline-offset:3px}

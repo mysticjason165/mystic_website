@@ -1,0 +1,1 @@
+// JS content for main page dynamic blog previews

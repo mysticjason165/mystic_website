@@ -6,3 +6,66 @@ nav{background:var(--card);padding:15px;text-align:center;}nav a{margin:15px;col
 button{background:var(--primary);color:#fff;border:none;padding:10px 20px;border-radius:8px;cursor:pointer;}
 .card{background:var(--card);margin:30px;padding:20px;border-radius:15px;box-shadow:0 5px 15px rgba(0,0,0,.15);}
 footer{text-align:center;padding:20px;}
+.hero{
+
+text-align:center;
+
+padding:70px 20px;
+
+}
+
+.hero h2{
+
+font-size:42px;
+
+margin-bottom:10px;
+
+}
+
+.search{
+
+text-align:center;
+
+margin:40px;
+
+}
+
+.search input{
+
+width:60%;
+
+max-width:600px;
+
+padding:15px;
+
+font-size:18px;
+
+border-radius:10px;
+
+border:2px solid var(--primary);
+
+background:var(--card);
+
+color:var(--text);
+
+}
+
+.articles{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+gap:25px;
+
+padding:40px;
+
+}
+
+.card:hover{
+
+transform:translateY(-6px);
+
+transition:.3s;
+
+}
